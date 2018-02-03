@@ -1,0 +1,81 @@
+D:\Documents\Activities\Kampus\Pemrograman III (Visual)\Tugas Akhir\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\bin\Debug\Aplikasi_Management_Apotic.exe.config
+D:\Documents\Activities\Kampus\Pemrograman III (Visual)\Tugas Akhir\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\bin\Debug\Aplikasi_Management_Apotic.exe
+D:\Documents\Activities\Kampus\Pemrograman III (Visual)\Tugas Akhir\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\bin\Debug\Aplikasi_Management_Apotic.pdb
+D:\Documents\Activities\Kampus\Pemrograman III (Visual)\Tugas Akhir\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\obj\Debug\Aplikasi_Management_Apotic.csprojResolveAssemblyReference.cache
+D:\Documents\Activities\Kampus\Pemrograman III (Visual)\Tugas Akhir\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\obj\Debug\Aplikasi_Management_Apotic.Frm_Login.resources
+D:\Documents\Activities\Kampus\Pemrograman III (Visual)\Tugas Akhir\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\obj\Debug\Aplikasi_Management_Apotic.Frm_MenuUtama.resources
+D:\Documents\Activities\Kampus\Pemrograman III (Visual)\Tugas Akhir\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\obj\Debug\Aplikasi_Management_Apotic.Frm_Pegawai.resources
+D:\Documents\Activities\Kampus\Pemrograman III (Visual)\Tugas Akhir\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\obj\Debug\Aplikasi_Management_Apotic.Properties.Resources.resources
+D:\Documents\Activities\Kampus\Pemrograman III (Visual)\Tugas Akhir\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\obj\Debug\Aplikasi_Management_Apotic.csproj.GenerateResource.Cache
+D:\Documents\Activities\Kampus\Pemrograman III (Visual)\Tugas Akhir\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\obj\Debug\Aplikasi_Management_Apotic.exe
+D:\Documents\Activities\Kampus\Pemrograman III (Visual)\Tugas Akhir\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\obj\Debug\Aplikasi_Management_Apotic.pdb
+D:\Documents\Activities\Kampus\Pemrograman III (Visual)\Tugas Akhir\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\bin\Debug\MySql.Data.dll
+D:\Documents\Activities\Kampus\Pemrograman III (Visual)\Tugas Akhir\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\Documents\Activities\Kampus\Pemrograman III (Visual)\Tugas Akhir\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+D:\Documents\Activities\Kampus\Pemrograman III (Visual)\Tugas Akhir\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\bin\Debug\MySql.Data.xml
+D:\Documents\Activities\Kampus\Pemrograman III (Visual)\Tugas Akhir\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\bin\Debug\MySql.Data.Entity.EF6.xml
+D:\Documents\Activities\Kampus\Pemrograman III (Visual)\Tugas Akhir\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+D:\Documents\Activities\Kampus\Pemrograman III (Visual)\Tugas Akhir\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\obj\Debug\Aplikasi_Management_Apotic.Frm_Obat.resources
+D:\Documents\Activities\Kampus\Pemrograman III (Visual)\Tugas Akhir\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\obj\Debug\Aplikasi_Management_Apotic.Frm_Pelanggan.resources
+D:\Documents\Activities\Kampus\Pemrograman III (Visual)\Tugas Akhir\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\obj\Debug\Aplikasi_Management_Apotic.Frm_Transaksi.resources
+C:\Users\Andri\Documents\Visual Studio 2015\Tugas Akhir\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\bin\Debug\Aplikasi_Management_Apotic.exe.config
+C:\Users\Andri\Documents\Visual Studio 2015\Tugas Akhir\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\obj\Debug\Aplikasi_Management_Apotic.exe
+C:\Users\Andri\Documents\Visual Studio 2015\Tugas Akhir\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\obj\Debug\Aplikasi_Management_Apotic.pdb
+C:\Users\Andri\Documents\Visual Studio 2015\Tugas Akhir\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\bin\Debug\Aplikasi_Management_Apotic.exe
+C:\Users\Andri\Documents\Visual Studio 2015\Tugas Akhir\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\bin\Debug\Aplikasi_Management_Apotic.pdb
+C:\Users\Andri\Documents\Visual Studio 2015\Tugas Akhir\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\bin\Debug\MySql.Data.xml
+C:\Users\Andri\Documents\Visual Studio 2015\Tugas Akhir\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Andri\Documents\Visual Studio 2015\Tugas Akhir\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\Andri\Documents\Visual Studio 2015\Tugas Akhir\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\obj\Debug\Aplikasi_Management_Apotic.csprojResolveAssemblyReference.cache
+C:\Users\Andri\Documents\Visual Studio 2015\Tugas Akhir\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\obj\Debug\Aplikasi_Management_Apotic.Frm_Login.resources
+C:\Users\Andri\Documents\Visual Studio 2015\Tugas Akhir\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\obj\Debug\Aplikasi_Management_Apotic.Frm_MenuUtama.resources
+C:\Users\Andri\Documents\Visual Studio 2015\Tugas Akhir\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\obj\Debug\Aplikasi_Management_Apotic.Frm_Obat.resources
+C:\Users\Andri\Documents\Visual Studio 2015\Tugas Akhir\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\obj\Debug\Aplikasi_Management_Apotic.Frm_Pegawai.resources
+C:\Users\Andri\Documents\Visual Studio 2015\Tugas Akhir\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\obj\Debug\Aplikasi_Management_Apotic.Frm_Pelanggan.resources
+C:\Users\Andri\Documents\Visual Studio 2015\Tugas Akhir\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\obj\Debug\Aplikasi_Management_Apotic.Frm_Transaksi.resources
+C:\Users\Andri\Documents\Visual Studio 2015\Tugas Akhir\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\obj\Debug\Aplikasi_Management_Apotic.Properties.Resources.resources
+C:\Users\Andri\Documents\Visual Studio 2015\Tugas Akhir\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\obj\Debug\Aplikasi_Management_Apotic.csproj.GenerateResource.Cache
+C:\Users\Edwin_GP\Downloads\Compressed\Kuliah\Pemrograman 3 (Visual)\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\obj\Debug\Aplikasi_Management_Apotic.csprojResolveAssemblyReference.cache
+C:\Users\Edwin_GP\Downloads\Compressed\Kuliah\Pemrograman 3 (Visual)\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\obj\Debug\Aplikasi_Management_Apotic.Frm_Login.resources
+C:\Users\Edwin_GP\Downloads\Compressed\Kuliah\Pemrograman 3 (Visual)\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\obj\Debug\Aplikasi_Management_Apotic.Frm_MenuUtama.resources
+C:\Users\Edwin_GP\Downloads\Compressed\Kuliah\Pemrograman 3 (Visual)\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\obj\Debug\Aplikasi_Management_Apotic.Frm_Obat.resources
+C:\Users\Edwin_GP\Downloads\Compressed\Kuliah\Pemrograman 3 (Visual)\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\obj\Debug\Aplikasi_Management_Apotic.Frm_Pegawai.resources
+C:\Users\Edwin_GP\Downloads\Compressed\Kuliah\Pemrograman 3 (Visual)\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\obj\Debug\Aplikasi_Management_Apotic.Frm_Pelanggan.resources
+C:\Users\Edwin_GP\Downloads\Compressed\Kuliah\Pemrograman 3 (Visual)\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\obj\Debug\Aplikasi_Management_Apotic.Frm_Transaksi.resources
+C:\Users\Edwin_GP\Downloads\Compressed\Kuliah\Pemrograman 3 (Visual)\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\obj\Debug\Aplikasi_Management_Apotic.Properties.Resources.resources
+C:\Users\Edwin_GP\Downloads\Compressed\Kuliah\Pemrograman 3 (Visual)\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\obj\Debug\Aplikasi_Management_Apotic.csproj.GenerateResource.Cache
+C:\Users\Edwin_GP\Downloads\Compressed\Kuliah\Pemrograman 3 (Visual)\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\obj\Debug\Aplikasi_Management_Apotic.exe
+C:\Users\Edwin_GP\Downloads\Compressed\Kuliah\Pemrograman 3 (Visual)\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\obj\Debug\Aplikasi_Management_Apotic.pdb
+C:\Users\Edwin_GP\Downloads\Compressed\Kuliah\Pemrograman 3 (Visual)\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\bin\Debug\Aplikasi_Management_Apotic.exe.config
+C:\Users\Edwin_GP\Downloads\Compressed\Kuliah\Pemrograman 3 (Visual)\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\bin\Debug\Aplikasi_Management_Apotic.exe
+C:\Users\Edwin_GP\Downloads\Compressed\Kuliah\Pemrograman 3 (Visual)\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\bin\Debug\Aplikasi_Management_Apotic.pdb
+C:\Users\Edwin_GP\Downloads\Compressed\Kuliah\Pemrograman 3 (Visual)\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\bin\Debug\MySql.Data.dll
+C:\Users\Edwin_GP\Downloads\Compressed\Kuliah\Pemrograman 3 (Visual)\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Edwin_GP\Downloads\Compressed\Kuliah\Pemrograman 3 (Visual)\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+C:\Users\Edwin_GP\Downloads\Compressed\Kuliah\Pemrograman 3 (Visual)\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\bin\Debug\MySql.Data.xml
+C:\Users\Edwin_GP\Downloads\Compressed\Kuliah\Pemrograman 3 (Visual)\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Edwin_GP\Downloads\Compressed\Kuliah\Pemrograman 3 (Visual)\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\Edwin_GP\Downloads\Compressed\Kuliah\Pemrograman 3 (Visual)\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\obj\Debug\Aplikasi_Management_Apotic.frm_report.resources
+C:\Users\Edwin_GP\Downloads\Compressed\Kuliah\Pemrograman 3 (Visual)\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\obj\Debug\Aplikasi_Management_Apotic.Frm_Periksa.resources
+C:\Users\Edwin_GP\Downloads\Compressed\Kuliah\Pemrograman 3 (Visual)\Aplikasi_Management_Apotic_v.2\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\bin\Debug\Aplikasi_Management_Apotic.exe.config
+C:\Users\Edwin_GP\Downloads\Compressed\Kuliah\Pemrograman 3 (Visual)\Aplikasi_Management_Apotic_v.2\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\bin\Debug\Aplikasi_Management_Apotic.exe
+C:\Users\Edwin_GP\Downloads\Compressed\Kuliah\Pemrograman 3 (Visual)\Aplikasi_Management_Apotic_v.2\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\bin\Debug\Aplikasi_Management_Apotic.pdb
+C:\Users\Edwin_GP\Downloads\Compressed\Kuliah\Pemrograman 3 (Visual)\Aplikasi_Management_Apotic_v.2\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\bin\Debug\MySql.Data.dll
+C:\Users\Edwin_GP\Downloads\Compressed\Kuliah\Pemrograman 3 (Visual)\Aplikasi_Management_Apotic_v.2\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Edwin_GP\Downloads\Compressed\Kuliah\Pemrograman 3 (Visual)\Aplikasi_Management_Apotic_v.2\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+C:\Users\Edwin_GP\Downloads\Compressed\Kuliah\Pemrograman 3 (Visual)\Aplikasi_Management_Apotic_v.2\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\bin\Debug\MySql.Data.xml
+C:\Users\Edwin_GP\Downloads\Compressed\Kuliah\Pemrograman 3 (Visual)\Aplikasi_Management_Apotic_v.2\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Edwin_GP\Downloads\Compressed\Kuliah\Pemrograman 3 (Visual)\Aplikasi_Management_Apotic_v.2\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\Edwin_GP\Downloads\Compressed\Kuliah\Pemrograman 3 (Visual)\Aplikasi_Management_Apotic_v.2\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\obj\Debug\Aplikasi_Management_Apotic.csprojResolveAssemblyReference.cache
+C:\Users\Edwin_GP\Downloads\Compressed\Kuliah\Pemrograman 3 (Visual)\Aplikasi_Management_Apotic_v.2\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\obj\Debug\Aplikasi_Management_Apotic.Frm_Login.resources
+C:\Users\Edwin_GP\Downloads\Compressed\Kuliah\Pemrograman 3 (Visual)\Aplikasi_Management_Apotic_v.2\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\obj\Debug\Aplikasi_Management_Apotic.Frm_MenuUtama.resources
+C:\Users\Edwin_GP\Downloads\Compressed\Kuliah\Pemrograman 3 (Visual)\Aplikasi_Management_Apotic_v.2\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\obj\Debug\Aplikasi_Management_Apotic.Frm_Obat.resources
+C:\Users\Edwin_GP\Downloads\Compressed\Kuliah\Pemrograman 3 (Visual)\Aplikasi_Management_Apotic_v.2\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\obj\Debug\Aplikasi_Management_Apotic.Frm_Pegawai.resources
+C:\Users\Edwin_GP\Downloads\Compressed\Kuliah\Pemrograman 3 (Visual)\Aplikasi_Management_Apotic_v.2\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\obj\Debug\Aplikasi_Management_Apotic.Frm_Pelanggan.resources
+C:\Users\Edwin_GP\Downloads\Compressed\Kuliah\Pemrograman 3 (Visual)\Aplikasi_Management_Apotic_v.2\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\obj\Debug\Aplikasi_Management_Apotic.Frm_Periksa.resources
+C:\Users\Edwin_GP\Downloads\Compressed\Kuliah\Pemrograman 3 (Visual)\Aplikasi_Management_Apotic_v.2\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\obj\Debug\Aplikasi_Management_Apotic.frm_report.resources
+C:\Users\Edwin_GP\Downloads\Compressed\Kuliah\Pemrograman 3 (Visual)\Aplikasi_Management_Apotic_v.2\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\obj\Debug\Aplikasi_Management_Apotic.Frm_Transaksi.resources
+C:\Users\Edwin_GP\Downloads\Compressed\Kuliah\Pemrograman 3 (Visual)\Aplikasi_Management_Apotic_v.2\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\obj\Debug\Aplikasi_Management_Apotic.Properties.Resources.resources
+C:\Users\Edwin_GP\Downloads\Compressed\Kuliah\Pemrograman 3 (Visual)\Aplikasi_Management_Apotic_v.2\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\obj\Debug\Aplikasi_Management_Apotic.csproj.GenerateResource.Cache
+C:\Users\Edwin_GP\Downloads\Compressed\Kuliah\Pemrograman 3 (Visual)\Aplikasi_Management_Apotic_v.2\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\obj\Debug\Aplikasi_Management_Apotic.exe
+C:\Users\Edwin_GP\Downloads\Compressed\Kuliah\Pemrograman 3 (Visual)\Aplikasi_Management_Apotic_v.2\Aplikasi_Management_Apotic\Aplikasi_Management_Apotic\obj\Debug\Aplikasi_Management_Apotic.pdb
